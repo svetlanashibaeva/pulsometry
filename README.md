@@ -11,4 +11,10 @@
 4) JavaScript
 5) Bootstrap 4
 
+## Посмотреть демо-версию
+
+ [Demo](https://svetlanashibaeva.github.io/pulsometry/)
+
+
+
 
